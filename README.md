@@ -1,3 +1,3 @@
 ## My Portfolio
 
-[[https://jey-prajapati.github.io/]]
+[Portfolio](https://jey-prajapati.github.io/)
